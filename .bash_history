@@ -52,3 +52,59 @@ vi sudoers
 su sunny680
 passwd sunny680
 su sunny680
+clear
+git clone https://github.com/vemular1/jenkins-maven-pipeline.git
+git log
+git pull https://github.com/kowshik680/jenkins-task.git
+git add .
+whereis git
+clear
+git push https://github.com/kowshik680/jenkins-task.git
+git clone https://github.com/vemular1/jenkins-maven-pipeline.git
+git add .
+git push https://github.com/vemular1/jenkins-maven-pipeline.git
+git push https://github.com/kowshik680/jenkins-task
+git push https://github.com/kowshik680/jenkins-task master
+ls
+where is git
+whereis git
+git config --list
+git init
+ls
+git config --global user.name "sunny"
+git config --global user.email "kowshik680@gmail.com"
+git config --list
+ git clone https://github.com/vemular1/jenkins-maven-pipeline.git
+git push https://github.com/kowshik680/jenkins-task master
+git config --list
+git push https://github.com/kowshik680/jenkins-task master
+cd /usr
+ls
+cd lib
+ls
+cd ..
+cd /etc
+ls
+cd ..
+cd
+su sunny
+vi /etc/passwd
+passwd sunny
+git push https://github.com/kowshik680/jenkins-task master
+ls
+git push -u origin master
+ls -al
+cd .git
+ls
+vi config
+cd
+sudo git clone https://github.com/kowshik680/jenkins-task.git
+ls
+mv jenkins-maven-pipeline jenkins-task
+ls
+cd jenkins-task
+ls
+cd
+git add .
+git commit -m "first commit"
+git push https://github.com/kowshik680/jenkins-task.git master
